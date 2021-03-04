@@ -7,3 +7,4 @@ Additions so far:
 4. Numpy: Programs related to basic matrix operations and initializations with NumPy library
 5. Machine Laerning: Programs to explore varieties of ML algorithms on a specific problem statement
 6. Data Structures: NumPy, Dictionaries, Lists, Tuples, Map, Reduce, Filter practice programs and excercises
+7. Practice Excercise: Filled with simple brainstorming python programs
