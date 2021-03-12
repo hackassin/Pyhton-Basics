@@ -8,3 +8,4 @@ Additions so far:
 5. Machine Laerning: Programs to explore varieties of ML algorithms on a specific problem statement
 6. Data Structures: NumPy, Dictionaries, Lists, Tuples, Map, Reduce, Filter practice programs and excercises
 7. Practice Excercise: Filled with simple brainstorming python programs
+8. Flask: Example programs to illustrate the simplified process of creating REST APIs
